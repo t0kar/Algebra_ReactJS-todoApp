@@ -1,4 +1,4 @@
-netlify status badge place
+[![Netlify Status](https://api.netlify.com/api/v1/badges/87c8c74f-2458-4a03-a3d2-5d3d60172469/deploy-status)](https://app.netlify.com/sites/t0kar-todo-app/deploys)
 
 ---
 
@@ -6,7 +6,7 @@ netlify status badge place
 
 Example todo application developed during Frontend developer course in Algebra
 
-**Try it out**: link
+**Try it out**: https://t0kar-todo-app.netlify.app/
 
 ## Instruction
 
