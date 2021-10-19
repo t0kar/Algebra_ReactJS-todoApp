@@ -11,6 +11,9 @@
 # production
 /build
 
+# Algebra course tasks
+/algebra_tasks
+
 # misc
 .DS_Store
 .env.local
